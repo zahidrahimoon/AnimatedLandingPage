@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy";
+}
+body{
+    width: 100%;
+    height: 100%;
+}
+#main{
+    width: 100%;
+    height: 100vh;
+}
+#top{
+    pointer-events: none;
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    right: 0;
+}
+#back{
+    width: 100%;
+    height: 100vh;
+}
+#back img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+#working-area{
+    width: 80%;
+    height: 100vh;
+    margin: 0 auto;
+    max-width: 1920px;
+    position: relative;
+}
+#nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 0;
+}
+
+#nav img{
+    height: 60px;
+}
+#nleft , #nright{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+#nav a{
+    pointer-events: all;
+    text-decoration: none;
+    text-transform: none;
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 1px;
+    color: #fff;
+  
+}
+#hero{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(0%,-50%);
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+#heroleft{
+    min-width: 50%;
+}
+#heroleft .elem{
+    height: 9vw;
+    overflow: hidden;
+    position: relative;
+}
+#heroleft .elem h1:nth-child(1){
+    top: 0;
+}
+#heroleft .elem h1{
+    position: absolute;
+    top: 100%;
+    left: 0;
+    line-height: .9;
+    font-family: "kajiro";
+    color: white;
+    font-weight: 100;
+    font-size: 11vw;
+}
+#heroleft button{
+    pointer-events: all;
+    padding: 1vw 3vw;
+    margin-top: 2vw;
+    font-size: 2vw;
+    font-family: "kajiro";
+}
+#heroright{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 18%;
+    color: white;
+}
+#heroright p{
+    font-size: 14px;
+    font-weight: 300;
+    text-align: right;
+}
+#heroright #imagediv{
+    width: 100%;
+    height: 170px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-image: url(david-chang/unspalsh.avif);
+    background-size: cover;
+    background-position: center;
+}
+#heroright p:nth-child(3){
+    margin-bottom: 100px;
+}
+

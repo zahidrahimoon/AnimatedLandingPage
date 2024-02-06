@@ -1,4 +1,4 @@
-**Animated Landing Page Repository**
+# Animated Landing Page Repository
 
 **Welcome to the Animated Landing Page Repository!**
 
@@ -10,19 +10,6 @@ Experience the magic of interactive animation with our captivating landing page 
 
 🎉 **Customization at Your Fingertips:** Embrace your creativity and personalize the content, colors, and animations effortlessly to reflect your brand's identity and vision.
 
-**Getting Started:**
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/animated-landing-page.git
-   ```
-
-2. **Open the Page:**
-   Launch the `index.html` file in your preferred web browser.
-
-**Live Demo:**
-Embark on a journey of discovery with our live demo of the animated landing page [here](#). (Don't forget to update "#" with the actual deployment link once available)
-
 **Acknowledgements:**
 🎉 **Animation Wizardry:** Special thanks to GSAP and Shery.js for their magical animation libraries that breathe life into our designs.
 
@@ -32,5 +19,15 @@ Embark on a journey of discovery with our live demo of the animated landing page
 - JavaScript
 - Shery.js
 - GSAP (GreenSock Animation Platform)
+
+  **Getting Started:**
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/animated-landing-page.git
+   ```
+
+2. **Open the Page:**
+   Launch the `index.html` file in your preferred web browser.
 
 Thank you for choosing our animated landing page. Get ready to dazzle and delight your visitors with an experience they won't forget! 🌟🚀

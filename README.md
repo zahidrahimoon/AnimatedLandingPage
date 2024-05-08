@@ -30,8 +30,4 @@ Experience the magic of interactive animation with our captivating landing page 
 2. **Open the Page:**
    Launch the `index.html` file in your preferred web browser.
 
-**Project View:**
-
-You can view the animated landing page project by clicking [here](https://zahidrahimoon.github.io/AnimatedLandingPage/).
-
 Thank you for choosing our animated landing page. Get ready to dazzle and delight your visitors with an experience they won't forget! 🌟🚀
